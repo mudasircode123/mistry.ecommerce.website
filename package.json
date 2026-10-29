@@ -1,0 +1,12 @@
+{
+  "name": "ec-first-web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix forme run dev",
+    "build": "npm --prefix forme run build",
+    "start": "npm --prefix forme run start",
+    "lint": "npm --prefix forme run lint",
+    "test": "npm --prefix forme test"
+  }
+}
